@@ -2,8 +2,6 @@
 
 This project is an **AI-powered Application Tracking System (ATS)** that helps candidates evaluate their resumes against job postings. Users can **log in, upload their resume, enter job details (company, job title, and description)**, and instantly receive an **ATS Score** along with **AI-powered feedback for improvement**.
 
----
-
 ## 🚀 Features
 
 * 🔐 **User Authentication** – Secure login for personalized tracking.
